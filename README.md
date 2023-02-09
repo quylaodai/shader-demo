@@ -8,5 +8,6 @@ sudo npm i -g http-server
 http-server
 
 # play with url param
-localhost:8080?id=texture
+[link] (http://localhost:8080?id=texture)
+
 
